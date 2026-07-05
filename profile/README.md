@@ -1,1 +1,42 @@
-IyBGUFZpYmUKCkEgZmVkZXJhdGlvbiBvZiBzaW5nbGUtcHVycG9zZSBGUFYgdG9vbHMg4oCUIG5vdCBhIG1vbm9saXRoLCBub3QgYSBwbGF0Zm9ybS4gSW5kZXBlbmRlbnQgdG9vbHMgdW5pZmllZCBieSBzaGFyZWQgY29udmVudGlvbnMsIGEgY29tbW9uIGRhdGEgbW9kZWwsIGFuZCBhIGNvbnNpc3RlbnQgaWRlbnRpdHkuIEVhY2ggdG9vbCBvd25zIGl0cyBvd24gcmVwbywgZGVwbG95LCBhbmQgcmVsZWFzZSBsaWZlY3ljbGUuCgojIyBDb3JlIHByaW5jaXBsZXMKCi0gKipHaXQgaXMgdGhlIHNpbmdsZSBzb3VyY2Ugb2YgdHJ1dGguKiogVG9vbHMgYXJlIHZpZXdzL2VkaXRvcnMgb3ZlciBhIHNoYXJlZCBnaXQgc3Vic3RyYXRlLiAiVGhlIGNvbW1pdCBpcyB0aGUgaW50ZXJmYWNlLiIKLSAqKkZPU1MsIHNlbGYtaG9zdGVkLCBjb21wb3NhYmxlLioqIE5vIHN1YnNjcmlwdGlvbnMsIG5vIGxvY2staW4uIFJ1bnRpcGkgKyBUYWlsc2NhbGUgaXMgdGhlIGRlcGxveW1lbnQgc3Vic3RyYXRlLgotICoqRmVkZXJhdGlvbiBvdmVyIHBsYXRmb3JtLioqIFRvb2xzIHN0YXkgc2VwYXJhdGUuIFRoZSBlbnRpdHkgc2NoZW1hIGZlZGVyYXRlcyB0aGVtLCBub3QgYSBzaGFyZWQgcnVudGltZS4KLSAqKlByb21vdGUsIGRvbid0IHByZS1idWlsZC4qKiBTdGFydCB3aXRoIGZld2VyIHRvb2xzIHRoYW4gZW50aXRpZXMuIFByb21vdGUgdG8gYSBzdGFuZGFsb25lIHRvb2wgb25seSB3aGVuIGl0IGVhcm5zIG9uZS4KCiMjIENhbm9uaWNhbCBlbnRpdGllcwoKfCBFbnRpdHkgfCBXaGF0IHwgSUQgcGF0dGVybiB8CnwtLS0tLS0tLXwtLS0tLS18LS0tLS0tLS0tLS0tfAp8IENyYWZ0IHwgQW55IGZseWFibGUgYWlyY3JhZnQgKERJWSBvciBjb21tZXJjaWFsKSB8IGBjLTxzbHVnPmAgfAp8IEJ1aWxkIHwgQXNzZW1ibHkgKyBCT00gZm9yIGEgY3JhZnQgKGZhY2V0IG9mIENyYWZ0KSB8IHBhcnQgb2YgY3JhZnQgcmVjb3JkIHwKfCBQYXJ0IHwgSW52ZW50b3J5IGl0ZW0gKG1vdG9yLCBGQywgZnJhbWUsIGV0Yy4pIHwgYHAtPHNlcT5gIHwKfCBHZWFyIHwgU2VyaWFsL3dhcnJhbnR5IGFzc2V0IChyYWRpb3MsIGdvZ2dsZXMsIGV0Yy4pIHwgYGctPHNlcT5gIHwKfCBTZXNzaW9uIHwgQSBmbGlnaHQgb3V0aW5nIOKAlCBkYXRlLCBjcmFmdCwgc3BvdCwgZHJpbGxzLCBsb2dzIHwgYHMtPGRhdGU+LTxubj5gIHwKfCBTcG90IHwgRmx5aW5nIGxvY2F0aW9uICsgYWlyc3BhY2UvY29tcGxpYW5jZSBtZXRhZGF0YSB8IGBsb2MtPHNsdWc+YCB8CnwgVHJhaW5pbmcgfCBTdHJ1Y3R1cmVkIHByYWN0aWNlIHByb2dyZXNzaW9uIChJR09XLCBkcmlsbHMpIHwgYHRyLTxzbHVnPmAgfAoKU2Vzc2lvbiBpcyB0aGUgcmVsYXRpb25hbCBodWIg4oCUIHRoZSBqb2luIHJvdyB0eWluZyBjcmFmdCArIHNwb3QgKyBkcmlsbCArIGxvZ3MgdG9nZXRoZXIuCgojIyBDaXRpemVucwoKfCBUb29sIHwgU2NvcGUgfCBIb3N0aW5nIHwKfC0tLS0tLXwtLS0tLS0tfC0tLS0tLS0tLXwKfCBmcHZpYmUtZmxlZXQgfCBDcmFmdCArIGJ1aWxkcyAoIndoYXQgeW91IG93biBhbmQgZmx5IikgfCBDb250YWluZXIgLyBUaXBpIHwKfCBmcHZpYmUtc2Vzc2lvbnMgfCBBcHBlbmQtcGVyLWZsaWdodCBsb2csIHRoZSBodWIgfCBDb250YWluZXIgLyBUaXBpIHwKfCBmcHZpYmUtaW52ZW50b3J5IHwgUGFydHMgc3RvY2ssIEJPTSBjb25zdW1wdGlvbiB0cmFja2luZyB8IENvbnRhaW5lciAvIFRpcGkgfAp8IGZwdmliZS10dW5lIHwgQmV0YWZsaWdodCB0dW5lIHByb2ZpbGVzLCByYXRlIHByZXNldHMgfCBTdGF0aWMgb3IgY29udGFpbmVyIHwKCiMjIEFyY2hpdGVjdHVyZQoKTW9kZWxlZCBvbiBEdW1iV2FyZTogc2luZ2xlLXB1cnBvc2UgdG9vbHMsIHNoYXJlZCBjb252ZW50aW9ucywgbWV0YS1jb21wb3NlLiBGUFZpYmUgYWRkcyBhIHNoYXJlZCBkYXRhIG1vZGVsIChlbnRpdGllcyArIGBmcHY6YCBsaW5rIHNjaGVtZSkgb24gdG9wLiBUb29scyBhZ3JlZSBvbiBJRHMsIGxpbmtzLCBhbmQgYXV0aCDigJQgbmV2ZXIgb24gYmVpbmcgdGhlIHNhbWUgYmluYXJ5LgoKIyMgRG9jcwoKLSBbRlBWSUJFLm1kIOKAlCBGZWRlcmF0aW9uIFNwZWMgJiBJbXBsZW1lbnRhdGlvbiBCcmllZl0oaHR0cHM6Ly9naXRodWIuY29tL0ZQVmliZS9kb2NzL2Jsb2IvbWFpbi9GUFZJQkUubWQpICh2MC4zLCBsaXZpbmcgZG9jdW1lbnQpCi0gW0NvbnRleHQgRG9jdW1lbnQg4oCUIHRvb2xpbmcgbGFuZHNjYXBlIGFuZCBtaWdyYXRpb24gbWFwXShodHRwczovL2dpdGh1Yi5jb20vRlBWaWJlL2RvY3MvYmxvYi9tYWluL2ZwdmliZS1jb250ZXh0Lm1kKQ==
+# FPVibe
+
+A federation of single-purpose FPV tools — not a monolith, not a platform. Independent tools unified by shared conventions, a common data model, and a consistent identity. Each tool owns its own repo, deploy, and release lifecycle.
+
+## Core principles
+
+- **Git is the single source of truth.** Tools are views/editors over a shared git substrate. "The commit is the interface."
+- **FOSS, self-hosted, composable.** No subscriptions, no lock-in. Runtipi + Tailscale is the deployment substrate.
+- **Federation over platform.** Tools stay separate. The entity schema federates them, not a shared runtime.
+- **Promote, don't pre-build.** Start with fewer tools than entities. Promote to a standalone tool only when it earns one.
+
+## Canonical entities
+
+| Entity | What | ID pattern |
+|--------|------|------------|
+| Craft | Any flyable aircraft (DIY or commercial) | `c-<slug>` |
+| Build | Assembly + BOM for a craft (facet of Craft) | part of craft record |
+| Part | Inventory item (motor, FC, frame, etc.) | `p-<seq>` |
+| Gear | Serial/warranty asset (radios, goggles, etc.) | `g-<seq>` |
+| Session | A flight outing — date, craft, spot, drills, logs | `s-<date>-<nn>` |
+| Spot | Flying location + airspace/compliance metadata | `loc-<slug>` |
+| Training | Structured practice progression (IGOW, drills) | `tr-<slug>` |
+
+Session is the relational hub — the join row tying craft + spot + drill + logs together.
+
+## Citizens
+
+| Tool | Scope | Hosting |
+|------|-------|---------|
+| fpvibe-fleet | Craft + builds ("what you own and fly") | Container / Tipi |
+| fpvibe-sessions | Append-per-flight log, the hub | Container / Tipi |
+| fpvibe-inventory | Parts stock, BOM consumption tracking | Container / Tipi |
+| fpvibe-tune | Betaflight tune profiles, rate presets | Static or container |
+
+## Architecture
+
+Modeled on DumbWare: single-purpose tools, shared conventions, meta-compose. FPVibe adds a shared data model (entities + `fpv:` link scheme) on top. Tools agree on IDs, links, and auth — never on being the same binary.
+
+## Docs
+
+- [FPVIBE.md — Federation Spec & Implementation Brief](https://github.com/FPVibe/docs/blob/main/FPVIBE.md) (v0.3, living document)
+- [Context Document — tooling landscape and migration map](https://github.com/FPVibe/docs/blob/main/fpvibe-context.md)
